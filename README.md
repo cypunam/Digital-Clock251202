@@ -1,2 +1,3 @@
-# Digital-Clock251202
-https://digital-clock-251202.netlify.app/
+# Digital-Clock
+![Screenshot (1)](https://github.com/user-attachments/assets/f4f616ea-4367-461d-acb8-c01cfc59e12f)
+
